@@ -1,0 +1,31 @@
+Vídeo 1: O que é GIT? O que é versionamento?
+
+3:10 - Início do curso
+GIT = Software de controle de versão
+GitHub = Plataforma de rede social para programadores
+
+GIT 
+Versionamento
+Versões - o programador lida com muitas versões de uma mesma coisa
+
+Exemplo:
+Como era antigamente antes do VCS:
+ - O programador começa a desenvolver um projeto para o cliente e cria uma pasta chamada "site-cliente"
+ - Após ser aprovado pelo cliente, o programador compacta essa pasta para fins de backup
+ - Após criar uma nova feature aprovada pelo cliente, o programador cria um novo zip chamado "site-cliente-v2"
+ - Conforme o tempo for passando são criados novos zips para controle e organização do projeto.
+ - Chega um ponto que ocorre um problema e um novo arquivo é criado com o nome "site-cliente-deu-bosta.zip"
+ - Após resolvido o problema o arquivo "site-cliente-resolvido.zip" é criado
+ - site-cliente-agora-vai.zip
+ - site-cliente-mudou-tudo.zip
+ - etc...
+ - Após juntar todos esses zips, é feito um backup para a nuvem(googledrive, dropbox...) onde vários tipos de profissionais(backend, designer, conteúdo, etc.) vão trabalhar em cima destes arquivos.
+ - Muito provavelmente, em pouco tudo estará um caos e ninguém mais conseguirá trabalhar.
+ - E aí que entra o VCS(Version Control System), ou software de versionamento
+ - Como exemplo, temos o GIT que é o mais famoso hoje em dia.
+
+ O primeiro VCS surgiu em 1972
+
+ Como era antigamente com o primeiro VCS:
+  - Damos o nome de "commit" o processo de criar uma pasta e/ou arquivo e mandar para o repositório central.
+  Parei no 14:05
