@@ -1,0 +1,77 @@
+Vídeo 3: A Evolução do GIT e GitHub
+
+3:00 - Início do vídeo.
+
+Um Pouco de história:
+
+1985
+CVS
+- Centralizado
+- Open Source
+- Mais popular
+- Alguns problemas
+
+2000
+SVN
+- Centralizado
+- Open Source
+- Ativo até hoje
+- CVS-like
+
+2000
+BitKeeper
+- Distribuído
+- Prorpietário
+- Versão comunidade (Linux - principal cliente)
+- CVS-free
+
+2004
+BitKeeper
+- Source Puller
+- Engenharia Reversa
+- Recursos destravados
+
+2005
+BitKeeper
+- Nova licença
+- Acesso a metadados
+- Só na versão comercial
+
+2005
+GIT
+- Distribuído
+- Open Source
+- Feito em 10 dias
+- Performance
+
+O que quer dizer "GIT"?
+- Três letras do alfabeto
+- Teimoso, cabeça-dura, pensa que sempre está certo
+- Global information tracker
+- Goddamn idiotic truckload of shit
+
+E o GitHub?
+
+2008
+GitHub
+- Prorpietário
+- Hospedagem de código
+- Baseado em GIT
+- 2009: 46k repositórios
+- 2010: 100k user / 1M repositórios
+- 2011: Ultrapassou SourceForge
+- 2013: 3M users / 5M repositórios
+- 2016: 14º lugar na lista da Forbes
+- 2018: Maior ataque de DDoS da história
+
+2018
+GitHub
+- Adquiridos pela Microsoft
+- US$ 7.5 Bilhões
+- Operação independente
+- 2020: GitHub compra a npm
+
+E esse mascote esquisito?
+- Octocat
+
+34:40 Fim da aula
