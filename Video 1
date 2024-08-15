@@ -19,6 +19,10 @@ Como era antigamente antes do VCS:
  - site-cliente-agora-vai.zip
  - site-cliente-mudou-tudo.zip
  - etc...
+ - É um sistema muito trabalhoso, que ocupa muito espaço e difícil de trabalhar.
+
+Aplicando hoje com nuvem:
+
  - Após juntar todos esses zips, é feito um backup para a nuvem(googledrive, dropbox...) onde vários tipos de profissionais(backend, designer, conteúdo, etc.) vão trabalhar em cima destes arquivos.
  - Muito provavelmente, em pouco tudo estará um caos e ninguém mais conseguirá trabalhar.
  - E aí que entra o VCS(Version Control System), ou software de versionamento
@@ -28,4 +32,20 @@ Como era antigamente antes do VCS:
 
  Como era antigamente com o primeiro VCS:
   - Damos o nome de "commit" o processo de criar uma pasta e/ou arquivo e mandar para o repositório central.
-  Parei no 14:05
+  - Várias pessoas podem participar porém o quem cuida da organização/versionamento dos arquivos é o próprio repositório central.
+  - A esse tipo de VCS damos o nome de Centralizado/Linear.
+  
+Como ficou o VCS após evoluir com o passar dos anos:
+  - O repositório passou a ser local, no próprio PC do programador.
+  - Todo o commit deverá ser feito para o repositório local.
+  - Assim que desejar, o programador envia todos os seus commits do repositório local para o repositório remoto através do comando "push".
+  - A esse VCS damos o nome de "distribuído".
+  
+Principais vantagens:
+  - Controle de histórico
+  - Trabalho em equipe
+  - Ramificação do projeto
+  - Segurança  
+  - Organização
+
+26:45 - Termino da aula.
