@@ -1,1 +1,29 @@
-Vídeo 4: O que é GIT? O que é versionamento?
+Vídeo 4: Instalações e configurações importantes.
+
+2:40 Início do Vídeo
+
+GIT e GitHub
+
+O que preciso instalar?
+- Chrome ou Edge
+- Visual Studio Code (https://code.visualstudio.com/Download)
+- GIT SCM (https://git-scm.com/downloads)
+- GitHub Desktop (https://desktop.github.com/download/)
+
+Durante a instalação do VS Code, marcar -Add "Open Code" action to Windows Explorer file context menu-
+Durante a instalação do VS Code, marcar -Add "Open Code" action to Windows Explorer directory context menu-
+
+Após a instalação do VS Code:
+- instale o JavaScript(ESLint)
+- instale o Portuguese (Brazil) Language Pack for Visual Studio Code
+- Clique na aba "Arquivo" e "Salvar automaticamente"
+- Clique na aba "Arquivo", "Preferências", "Configurações", digite:
+  - "Word Wrap" e ponha "on"
+  - "Color Theme" e ponha "Dark+"
+
+Durante a instalação do Git:
+- Escolha "Use Visual Studio Code as Git's default editor"
+
+Instale o GitHub sem nenhum adicional.
+
+32:00 Fim da Aula
