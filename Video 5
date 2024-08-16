@@ -14,7 +14,7 @@ Após isso o seu repositório foi enviado para o GitHub.
 - Logo após você fazer qualquer alteração dentro do VS Code, aparecerá dentro do GitHub desktop um alerta, podendo você commitar ou não. 
 - Quando você resolver commitar, insira um comentário sobre o seu commit e clique em Commit to main ou master. Essa ação chamamos de versionamento e enviará esse commit para o Git e não o GitHub.
 - Para enviar esse commit ao GitHub(repositório remoto) basta clicar em "Push origin". Após isso o GitHub estará atualizado e todas as alterações que estão no VS Code poderão ser visualizadas no GitHub.
-- 
+- Eu também posso editar o repositório remoto diretamente pelo GitHub, bastando clicar em um arquivo qualquer do repositório e depois clicar em "Edit this File".
 
 
 
