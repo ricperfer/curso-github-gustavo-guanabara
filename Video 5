@@ -1,0 +1,31 @@
+Vídeo 5: Criando o primeiro repositório.
+
+4:05 início do video
+
+Abrir o GitHub Desktop:
+- Clicar em "Create a New Repository on your hard drive..."
+- Marcar "Initialize this repository with a README"
+- Clicar em "MIT License" ou outro qualquer(ler sobre é importante).
+- Clicar em "Publish repository"
+- Se atentar para "Keep this code private"
+
+Após isso o seu repositório foi enviado para o GitHub.
+
+- Logo após você fazer qualquer alteração dentro do VS Code, aparecerá dentro do GitHub desktop um alerta, podendo você commitar ou não. 
+- Quando você resolver commitar, insira um comentário sobre o seu commit e clique em Commit to main ou master. Essa ação chamamos de versionamento e enviará esse commit para o Git e não o GitHub.
+- Para enviar esse commit ao GitHub(repositório remoto) basta clicar em "Push origin". Após isso o GitHub estará atualizado e todas as alterações que estão no VS Code poderão ser visualizadas no GitHub.
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Commit significa atualizar o repositório.
