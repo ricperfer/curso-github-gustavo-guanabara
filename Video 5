@@ -18,7 +18,11 @@ Após isso o seu repositório foi enviado para o GitHub.
 - Após essa alteração remota, devemos voltar ao GitHub Desktop e clicar no botão "Fetch origin" para verificar se existe alguma alteração no repositório remoto e, caso exista, trazer para o repositório local.
 - Caso exista alguma coisa, será exibido o botão "Pull origin" no qual devemos clicar e aguardar as alterações no repositório local que também atualizará/sincronizará automaticamente as informações do VS Code.
 
+Atalhos:
+Commit: ctrl + Enter
+Push: ctrl + P
 
+29:50 Fim do vídeo
 
 
 
