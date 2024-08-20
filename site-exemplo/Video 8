@@ -6,3 +6,5 @@ Caso você queira publicar algunm código/arquivo no seu GitHub, você vai:
 - Criar um novo repositório no GitHub(Vide "Video 5");
 - Coloque os arquivos na pasta do repositório que foi criado;
 - Verifique no VS Code se existe algum arquivo ou pasta que não deve ser enviado para o GitHub;
+- Caso exista algum, clique nesse arquivo com o botão direito e clique em "Ignore File (Add to .gitignore)"
+- O comando ".gitignore" não vai versionar localmente e nem vai mandar pro GitHub o arquivo indicado.
