@@ -8,3 +8,6 @@ Caso você queira publicar algunm código/arquivo no seu GitHub, você vai:
 - Verifique no VS Code se existe algum arquivo ou pasta que não deve ser enviado para o GitHub;
 - Caso exista algum, clique nesse arquivo com o botão direito e clique em "Ignore File (Add to .gitignore)"
 - O comando ".gitignore" não vai versionar localmente e nem vai mandar pro GitHub o arquivo indicado.
+- Após isso "commitar" e clicar no botão "Push origin".
+
+Fim da aula: 25:12.
