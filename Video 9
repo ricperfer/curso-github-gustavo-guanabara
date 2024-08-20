@@ -1,0 +1,6 @@
+Vídeo 9: Você sabe usar Issues?
+
+- Uma Issue é uma dúvida com relação a um funcionamento incorreto de algum projeto. É um problema identificado cuja resposta você não saiba.
+- Pull request é uma correção que você fez e está disponibilizando para ser implementada no projeto ou não, vai depender apenas do proprietário do projeto.
+
+Dica: Ao identificar um erro, tente procurar no GitHub do projeto se existe uma issue igual a sua para não duplicar a issue. Havendo uma issue igual a sua basta apenas esperar para ela ser resolvida.
