@@ -7,6 +7,21 @@ Branch Master = ramo principal
 
 16:40 inicio prático.
 
-- Para criar um branch devemos ir para o GitHub Desktop e no menu principal clicar em Branch > New Branch;
-- 
+Criar Branch:
+
+- Para criar um branch devemos ir para o GitHub Desktop e no menu principal clicar em "Branch" > "New Branch";
+- Nomeie a Branch na parte "Create branch based on..." clique na branch principal(Main ou Master);
+- Clique no botão "Create Branch";
+- Clique no botão "Publish branch";
+- A partir de agora podemos escolher em qual branch trabalhar.
+
+Efetuar um Merge:
+
+- No GitHub Desktop, coloque na "Current Branch" em master/main;
+- Na barra de menu clique em "Branch" > "Merge into Current Branc..."
+- Na janela "Merge into master" selecione a "Branch" para juntar com o master;
+- Clique no botão Merge master into "branch escolhida";
+- Caso exista algum conflito, resolva-o para prossegir com o Merge;
+- Pronto!
+
 44:40 = Fim da aula.
